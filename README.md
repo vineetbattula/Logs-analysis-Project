@@ -1,1 +1,1 @@
-# sql
+# logs analysis project
